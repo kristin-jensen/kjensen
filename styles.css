@@ -74,6 +74,7 @@ nav ul li a:hover {
 }
 
 #main p {
+
     text-indent: 1.5em;
 }
 
@@ -128,6 +129,7 @@ footer {
     margin-bottom: 10px;
     border: 2px solid;
     border-radius: 25px;
+	
 }/* navigation for footer */
 footer a:link {
     color: black;
@@ -147,4 +149,12 @@ footer a:hover {
 iframe {
     display: block;
     margin: auto;
+}
+
+table, th, td {
+  border:1px solid black;
+  margin-bottom: 20px;
+  padding: 10px;
+ background-color: #F4D3EF;
+   border: 2px solid;
 }
