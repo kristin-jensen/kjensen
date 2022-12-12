@@ -143,3 +143,8 @@ footer a:visited {
 footer a:hover {
     text-decoration: underline;
 }
+
+iframe {
+    display: block;
+    margin: auto;
+}
