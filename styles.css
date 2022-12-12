@@ -149,6 +149,7 @@ footer a:hover {
 iframe {
     display: block;
     margin: auto;
+	margin-bottom: 20px;
 }
 
 table, th, td {
