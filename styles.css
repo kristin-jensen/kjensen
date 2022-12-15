@@ -151,6 +151,9 @@ iframe {
     display: block;
     margin: auto;
 	margin-bottom: 20px;
+	border: 0px;
+	width: 350px;
+	height: 300px;
 }
 
 table, th, td {
